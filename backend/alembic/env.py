@@ -27,6 +27,8 @@ from app.core.database import Base
 # IMPORTANT: import all models here
 from app.modules.masters.season.model import Season
 from app.modules.masters.buyer.model import Buyer
+from app.modules.masters.style.model import Style
+
 # -------------------------------------------------
 # Set target metadata for autogenerate
 # -------------------------------------------------
