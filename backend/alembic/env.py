@@ -29,6 +29,8 @@ from app.modules.masters.season.model import Season
 from app.modules.masters.buyer.model import Buyer
 from app.modules.masters.style.model import Style
 from app.modules.masters.color.model import Color
+from app.modules.masters.size.model import Size
+
 
 
 # -------------------------------------------------
